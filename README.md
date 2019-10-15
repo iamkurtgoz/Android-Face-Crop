@@ -1,6 +1,6 @@
 FaceCrop for Android Studio
 ========
-FaceDetectorView is a cropper image library Android.<br>
+FaceDetectorView is a cropper image library for Android.<br>
 
 ![Rewind](https://github.com/memishood/Android-Face-Crop/blob/master/Ads%C4%B1z4.png)
 -------------------
