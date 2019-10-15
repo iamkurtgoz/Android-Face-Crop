@@ -29,14 +29,14 @@ dependencies {
                 android:id="@+id/image"
                 android:layout_width="96dp"
                 android:layout_height="96dp"
-                app:corners="200"
+                app:corners="15"
                 android:layout_gravity="center"/>
 ```
 ## Params
 
 | Params | Value |
 | :------: | :------: |
-| app:corners | 200 |
+| app:corners | 15 |
 -------------------
 
 ## Java
