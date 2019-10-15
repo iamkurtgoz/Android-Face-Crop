@@ -47,9 +47,7 @@ public class FaceDetectorView extends AppCompatImageView {
         TypedArray ta = context.obtainStyledAttributes(attrs,R.styleable.FaceDetectorView);
 
         try {
-            radius = ta.getInt(R.styleable.FaceDetectorView_corners,300);
-
-            Log.d("onEmre",String.valueOf(radius));
+            radius = ta.getInt(R.styleable.FaceDetectorView_corners,15);
         }finally {
             ta.recycle();
         }
